@@ -25,7 +25,7 @@
     <text x="50" y="55"
           fill="#ffffff"
           font-family="monospace, monospace"
-          font-size="28">~/about-me</text>
+          font-size="35">AI Telegram Bot</text>
   </g>
 
   <!-- cursor -->
